@@ -1,0 +1,9 @@
+Here the goodies that are selected for distribution are:
+
+MI Band: 1199
+Sandwich Toaster: 1999
+Cult Pass: 2699
+Scale: 5099
+Fitbit Plus: 7599
+
+And the difference between the chosen goodie with highest price and the lowest price is 6400
